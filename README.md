@@ -165,6 +165,7 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 - [reboron](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js 
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
+- [react-dimmer](https://github.com/RazAbk/React-Dimmer) - [demo](https://codesandbox.io/s/react-dimmer-7k18i) - Easy to use React component that allows you to dim your app's background while a menu / modal is open.
 - [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
 - [reoverlay](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
